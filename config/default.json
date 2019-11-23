@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://fiona123:fiona123@cluster0-csbwh.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
+
+}
+
